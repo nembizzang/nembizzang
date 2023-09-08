@@ -3,7 +3,7 @@
 
 <br>
 
-## 📗 Go and Check nembizzang's Portfolio! [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://url.kr/2kyqpb/)](https://url.kr/2kyqpb/)
+## 📗 nembizzang's Portfolio! [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://url.kr/2kyqpb/)](https://url.kr/2kyqpb/)
 
 <br>
 
