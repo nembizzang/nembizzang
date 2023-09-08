@@ -37,3 +37,11 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=flat-square&logo=Microsoft Office&logoColor=white"/> 
 </div>
+
+<br>
+
+# ✍ Projects
+1. 책장 이미지를 활용한 디지털 서재 서비스 : https://github.com/nembizzang/bookisonandon_AI
+2. 도로 청소 로봇을 위한 물 웅덩이 감지 모델 : https://github.com/nembizzang/stagnant_water_detection
+3. 제2회 통신망 안정성 확보를 위한 인공지능 해커톤 : https://github.com/nembizzang/KT_network
+4. 공기압축기 이상 확인 : https://github.com/nembizzang/air_pressure_Anomaly_Detection
