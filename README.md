@@ -1,8 +1,39 @@
-## Hey 👋, This is 김영빈
-[![Gmail Badge](https://img.shields.io/badge/-nembizzang@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nembizzang@gmail.com)](mailto:nembizzang@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-nembizzang-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nembizzang/)](https://www.linkedin.com/in/nembizzang/) [![Github Badge](https://img.shields.io/badge/-nembizzang-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nembizzang/)](https://www.github.com/nembizzang/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://url.kr/2kyqpb/)](https://url.kr/2kyqpb/) <p align='left'>기획자 경험을 가진 AI 개발자입니다.</p><p align='left'> You can view my resume <a href='https://url.kr/2kyqpb ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=nembizzang alt=nembizzang /> </p>
+# 👋 Hello, world!!
+# 기획 능력을 갖춘 AI 개발자 김영빈 입니다!
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=nembizzang&show_icons=true&include_all_commits=true)](https://github.com/nembizzang/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nembizzang&layout=compact)](https://github.com/nembizzang/github-readme-stats)
+<br>
+
+## 📗 Portfolio [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://url.kr/2kyqpb/)](https://url.kr/2kyqpb/)
+
+<br>
+
+#### 📖 새로운 일에 대한 호기심으로, 주도적으로 꾸준히 공부하고 기록합니다.
+#### 🤝기획자 경험으로 다진 소통 역량을 통해 팀원들과 적극적으로 소통하며 협업합니다.
+#### 🖥 Computer Vision AI에 특히 관심이 많습니다.
+
+<p><a href="https://solved.ac/nembizzang">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nembizzang" alt="Solved.ac프로필">
+</a></p>
+<br>
+
+# 💪 Available Skills
+
+## Languages
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white"/> 
+</div>
+
+## Framework
+<div>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> 
+</div>
+
+## Etc
+<div>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=flat-square&logo=Microsoft Office&logoColor=white"/> 
+</div>
