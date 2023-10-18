@@ -1,5 +1,5 @@
 # 👋 Hello, world!!
-# 기획 능력을 갖춘 AI 개발자 김영빈 입니다!
+# 기획 능력을 갖춘 AI 개발/데이터 분석 희망자 김영빈 입니다!
 
 <br>
 
@@ -9,7 +9,7 @@
 
 #### 📖 새로운 일에 대한 호기심으로, 주도적으로 꾸준히 공부하고 기록합니다.
 #### 🤝기획자 경험으로 다진 소통 역량을 통해 팀원들과 적극적으로 소통하며 협업합니다.
-#### 🖥 Computer Vision AI에 특히 관심이 많습니다.
+#### 🖥 데이터 분석과 Computer Vision AI에 관심이 많습니다.
 
 <p><a href="https://solved.ac/nembizzang">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nembizzang" alt="Solved.ac프로필">
