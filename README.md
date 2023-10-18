@@ -45,3 +45,4 @@
 2. 도로 청소 로봇을 위한 물 웅덩이 감지 모델 : https://github.com/nembizzang/stagnant_water_detection
 3. 제2회 통신망 안정성 확보를 위한 인공지능 해커톤 : https://github.com/nembizzang/KT_network
 4. 공기압축기 이상 확인 : https://github.com/nembizzang/air_pressure_Anomaly_Detection
+5. FC온라인 인벤 게시물 "매칭" 연관 단어 분석 : https://github.com/nembizzang/FConline_matching_search_analysis.git
