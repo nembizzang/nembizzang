@@ -3,7 +3,8 @@
 
 <br>
 
-## 📗 nembizzang's Portfolio! ![Static Badge](https://img.shields.io/badge/portfolio-8A2BE2?link=https://han.gl/TTFekN)
+## 📗 nembizzang's Portfolio!
+https://han.gl/TTFekN
 
 <br>
 
