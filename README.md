@@ -4,7 +4,7 @@
 <br>
 
 ## 📗 nembizzang's Portfolio!
-[김영빈 포트폴리오 입니다.](https://han.gl/TTFekN)
+[김영빈 포트폴리오](https://han.gl/TTFekN)
 
 <br>
 
